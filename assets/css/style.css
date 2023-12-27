@@ -44,7 +44,7 @@ justify-content: flex-end;
 align-items: flex-end;
 text-align: right;
 min-height: 30vh;
-background-image: url(../Images/Hero_Banner_Background.jpg);
+background-image: url(../images/Hero_Banner_Background.jpg);
 background-repeat: round;
 padding: 2% 5%;
 }
@@ -125,27 +125,27 @@ padding: 2% 5%;
 }
 
 .mainProject {
-     background-image: url(../Images/mern-stack.jpg);
+     background-image: url(../images/mern-stack.jpg);
      opacity: 0.7;
 }
 
 .secondProject {
-     background-image: url(../Images/LED-Wall.jpg);
+     background-image: url(../images/LED-Wall.jpg);
      opacity: 0.7;
 }
 
 .thirdProject {
-     background-image: url(../Images/calculator.jpg);
+     background-image: url(../images/calculator.jpg);
      opacity: 0.7;
 }
 
 .fourthProject {
-     background-image: url(../Images/e-commerce.jpg);
+     background-image: url(../images/e-commerce.jpg);
      opacity: 0.7;
 }
 
 .fifthProject {
-     background-image: url(../Images/website.jpg);
+     background-image: url(../images/website.jpg);
      opacity: 0.7;
 }
 
